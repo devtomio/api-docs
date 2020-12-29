@@ -45,3 +45,9 @@ fetch('https://api.1chi.tk/cat')
 	"link": "https://api.1chi.tk/img/cat/cat.png"
 }
 ```
+
+This endpoint returns a random cat picture.
+
+### HTTP Request
+
+`GET https://api.1chi.tk/cat`
