@@ -20,7 +20,7 @@ code_clipboard: true
 
 Welcome to the API Documentation for the 1chi API!
 
-This API Documentation was made with [Slate](https://github.com/slatedocs/slate).
+This API Documentation was made with [Slate](https://github.com/slatedocs/slate). Feel free to use this to make your own api documentation!
 
 # Images
 
